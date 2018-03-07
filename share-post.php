@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Reza Share Button
-Author: rezadeveloper
+Plugin Name: Saoshyant Share Button
+Author: Saoshyant
 */ 
   
 
